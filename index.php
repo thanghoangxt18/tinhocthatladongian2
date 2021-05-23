@@ -1,3 +1,3 @@
-hello
-
-sua ne
+<?php
+echo "Tin hoc that la don gian";
+?>
